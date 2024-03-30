@@ -7,13 +7,14 @@ Nesse projeto, implementamos os seguintes algoritmos:
 - Alpha Beta Pruning
 - Monte Carlo Tree Search
 
-## Componentes:
 
-- *Relatorio_Connect4.ipynb*: notebook com algoritmos e programas lógicos do jogo
-- *Analise_Connect4.ipynb*: notebook com a análise das escolhas feitas e análise estática dos algoritmos
+
+## Componentes:
 - *connect4*: pasta com todos os arquivos python do jogo
 - *apresentacao.mp4*: vídeo de apresentação do projeto
-- *informacoes.txt*: link para o vídeo no Youtube e para repositórios no GitHub
+- *links.txt*: link para o vídeo no Youtube e para repositórios no GitHub
+- *Analise_Connect4.ipynb*: notebook com a análise das escolhas feitas e análise estática dos algoritmos
+- *Relatorio_Connect4.ipynb*: notebook com algoritmos e programas lógicos do jogo
 
 ## Para jogar:
 

@@ -5,4 +5,5 @@ REPOSITÓRIO PÚBLICO DO JOGO:
 https://github.com/RobertGleison/connect4.git
 
 VIDEO NO YOUTUBE:
+https://youtu.be/BtfPM7UNRNk
 
